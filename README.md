@@ -4,14 +4,14 @@
 Pull requests on interesting tools/projects/resources are welcome.
 
 ## Table of Contents 📜
-  - [Algorithms](#algorithms)
-  - [Code Challenges](#challenges)
-  - [Computer Science](#computer-science)
-  - [Design](#design)
-  - [Learnings](#learnings)
-  - [Web](#web)
-  - [Others](#others)
-  - [Tools](#tools)
+  - [Algorithms](#algorithms-)
+  - [Code Challenges](#challenges-)
+  - [Computer Science](#computer-science-)
+  - [Design](#design-)
+  - [Learnings](#learnings-)
+  - [Web](#web-)
+  - [Others](#others-)
+  - [Tools](#tools-)
 
 ## Algorithms 📓
 
