@@ -1,0 +1,11 @@
+kaggle : http://kaggle.com {
+  learn Data Science and compete with others
+}
+
+cs Video Courses: https://github.com/Developer-Y/cs-video-courses{
+  List of Computer Science video lectures
+}
+
+baseCS: https://medium.com/basecs{
+  Exploring the basics of computer science through funny way :)
+}
