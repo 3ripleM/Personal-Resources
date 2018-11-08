@@ -1,7 +1,7 @@
 # My Personal Resources  :wave:
 
 ## Contributing 🙏
-Pull requests on interesting tools/projects/resources are welcome.
+Pull requests on interesting tools/projects/resources are welcome. [:point_right: Github Repository](https://github.com/3ripleM/Personal-Resources)
 
 ## Table of Contents 📜
   - [Algorithms](#algorithms-)
