@@ -55,6 +55,7 @@ Pull requests on interesting tools/projects/resources are welcome. [:point_right
 
 * [swagger](https://swagger.io) - bulid apis
 * [scotch](https://scotch.io) - Web Dev Resources
+* [emscripten](https://github.com/kripken/emscripten) - is an LLVM-to-JavaScript compiler ( C/C++ to js )
 * [Jonas Resources](http://codingheroes.io/resources/)
 
 
