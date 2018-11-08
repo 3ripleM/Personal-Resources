@@ -23,8 +23,8 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 * [CodeChef](https://www.codechef.com/problems/easy)
 * [Geeks For Geeks](practice.geeksforgeeks.org)
-* [Hacker Earth](https://www.hackerearth.com/challenges/) - Hackathons, Programming Challenges & Coding Competitions
 * [Sphere online judge](https://www.spoj.com/problems/classical/)
+* [Hacker Earth](https://www.hackerearth.com/challenges/) - Hackathons, Programming Challenges & Coding Competitions
 * [sharecode](https://sharecode.io/) - Contests and ACMs
 
 
@@ -54,22 +54,24 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Web 🌎
 
 * [swagger](https://swagger.io) - bulid apis
-* [Jonas Resources](http://codingheroes.io/resources/)
 * [scotch](https://scotch.io) - Web Dev Resources
+* [Jonas Resources](http://codingheroes.io/resources/)
 
 
 ## Others 👀
 
 * [Devhints](https://devhints.io) - collection of cheatsheets :)
 * [music for programming](http://musicforprogramming.net) - A series of mixes intended for listening while programming
-* [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [Github Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 * [Typing club](https://www.typingclub.com/) - Learn Touch Typing
-* [ Electron Vue](https://simulatedgreg.gitbooks.io)
+* [Gitter](https://gitter.im/) - developers community
+* [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Awesome persian podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
+* [Github Cheet Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 
 ## Tools 🔨
 
 * [boost note](https://boostnote.io) - An open source markdown editor
-* [Badges](https://forthebadge.com/)
 * [bugsnag](https://www.bugsnag.com/) - monitor applications stability
 * [dat project](https://datproject.org/) - Peer to Peer File Sharing
+* [ Electron Vue](https://simulatedgreg.gitbooks.io)
+* [Badges](https://forthebadge.com/)
