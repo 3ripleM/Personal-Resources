@@ -36,6 +36,7 @@ Pull requests on interesting tools/projects/resources are welcome. [:point_right
 * [Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks
 * [activities](https://activities.tjhsst.edu/sct/lectures.php) - basic CS Lectures (*For Contests*) 👌
 * [stanford Cs](http://web.stanford.edu/class/cs97si/) - basic CS Lectures (*For Contests*) 👌
+* [CS Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 
 ## Design ✒️
 
