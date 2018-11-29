@@ -12,6 +12,7 @@ Pull requests on interesting tools/projects/resources are welcome. [:point_right
   - [Web](#web-)
   - [Others](#others-)
   - [Tools](#tools-)
+  - [Vue js](#vue)
 
 ## Algorithms 📓
 
@@ -58,7 +59,11 @@ Pull requests on interesting tools/projects/resources are welcome. [:point_right
 * [scotch](https://scotch.io) - Web Dev Resources
 * [emscripten](https://github.com/kripken/emscripten) - is an LLVM-to-JavaScript compiler ( C/C++ to js )
 * [Jonas Resources](http://codingheroes.io/resources/)
+* [Front End Masters](https://frontendmasters.com/) - master courses for frontend developers
 
+## Vue
+
+* [electron vue](https://simulatedgreg.gitbooks.io/electron-vue/content/en/) - build electron apps using vue 
 
 ## Others 👀
 
@@ -75,5 +80,4 @@ Pull requests on interesting tools/projects/resources are welcome. [:point_right
 * [boost note](https://boostnote.io) - An open source markdown editor
 * [bugsnag](https://www.bugsnag.com/) - monitor applications stability
 * [dat project](https://datproject.org/) - Peer to Peer File Sharing
-* [ Electron Vue](https://simulatedgreg.gitbooks.io)
 * [Badges](https://forthebadge.com/)
